@@ -1,6 +1,6 @@
 {
   "function": {
-    "prodmyapp": {
+    "testamplify6ad70618": {
       "build": true,
       "providerPlugin": "awscloudformation",
       "service": "Lambda"
